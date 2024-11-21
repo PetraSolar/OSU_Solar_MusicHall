@@ -34,4 +34,6 @@ Vytvořte program, který bude schopen uchovávat data o kapacitách sektorů ko
    • public void printInfo()  
    <br>
 
-5) Vytvořte datovou strukturu, naplňte daty a ověřte správnou funkcionalitu všech metod.
+5) Podle údajů na obrázku vytvořte datovou strukturu, naplňte daty a ověřte správnou funkcionalitu všech metod.
+
+   ![image](https://github.com/user-attachments/assets/cda84c02-e222-4f50-b06b-f5524998dde8)
